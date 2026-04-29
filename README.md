@@ -2,7 +2,7 @@
 
 # First IC DESIGN workshop
 
-- [Read the documentation for project](docs/info.md)
+- [Read the documentation for project](docs/info.md) 
 
 ## What is Tiny Tapeout?
 
